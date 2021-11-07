@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryan Dubey</h1>
 <h3 align="center">A Frontend Developer from Mumbai.</h3>
 
-- 📫 How to reach me **aryandubey359@gmail.com**
+- 📫 Reach me at **aryandubey359@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aryandubey359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aryandubey359" height="30" width="40" /></a>
 <a href="https://twitter.com/thearyandubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thearyandubey" height="30" width="40" /></a>
