@@ -2,6 +2,7 @@
 <h3 align="center">A Frontend Developer from Mumbai.</h3>
 
 - 📫 Reach me at **aryandubey359@gmail.com**
+- Current working as an Associate intern in the React Development Team at The Entrepreneurship Network 
 
 <p align="left">
 <a href="https://codepen.io/aryandubey359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aryandubey359" height="30" width="40" /></a>
