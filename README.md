@@ -2,7 +2,6 @@
 <h3 align="center">A Frontend Developer from Mumbai.</h3>
 
 - 📫 Reach me at **aryandubey359@gmail.com**
-- Current working as an Associate intern in the React Development Team at The Entrepreneurship Network 
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
